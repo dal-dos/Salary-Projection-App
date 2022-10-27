@@ -1,0 +1,14 @@
+E:\CSIS 1175 Dal\Assignment 1\Salary Projection Console App\obj\Debug\Salary Projection Console App.csprojAssemblyReference.cache
+E:\CSIS 1175 Dal\Assignment 1\Salary Projection Console App\obj\Debug\Salary Projection Console App.csproj.CoreCompileInputs.cache
+E:\CSIS 1175 Dal\Assignment 1\Salary Projection Console App\bin\Debug\Salary Projection Console App.exe.config
+E:\CSIS 1175 Dal\Assignment 1\Salary Projection Console App\bin\Debug\Salary Projection Console App.exe
+E:\CSIS 1175 Dal\Assignment 1\Salary Projection Console App\bin\Debug\Salary Projection Console App.pdb
+E:\CSIS 1175 Dal\Assignment 1\Salary Projection Console App\obj\Debug\Salary Projection Console App.exe
+E:\CSIS 1175 Dal\Assignment 1\Salary Projection Console App\obj\Debug\Salary Projection Console App.pdb
+I:\CSIS 1175 Dal\Assignment 1\CSIS1175F2019dalveerDosanjhAS1\Part2\Salary Projection Console App\bin\Debug\Salary Projection Console App.exe.config
+I:\CSIS 1175 Dal\Assignment 1\CSIS1175F2019dalveerDosanjhAS1\Part2\Salary Projection Console App\bin\Debug\Salary Projection Console App.exe
+I:\CSIS 1175 Dal\Assignment 1\CSIS1175F2019dalveerDosanjhAS1\Part2\Salary Projection Console App\bin\Debug\Salary Projection Console App.pdb
+I:\CSIS 1175 Dal\Assignment 1\CSIS1175F2019dalveerDosanjhAS1\Part2\Salary Projection Console App\obj\Debug\Salary Projection Console App.csprojAssemblyReference.cache
+I:\CSIS 1175 Dal\Assignment 1\CSIS1175F2019dalveerDosanjhAS1\Part2\Salary Projection Console App\obj\Debug\Salary Projection Console App.csproj.CoreCompileInputs.cache
+I:\CSIS 1175 Dal\Assignment 1\CSIS1175F2019dalveerDosanjhAS1\Part2\Salary Projection Console App\obj\Debug\Salary Projection Console App.exe
+I:\CSIS 1175 Dal\Assignment 1\CSIS1175F2019dalveerDosanjhAS1\Part2\Salary Projection Console App\obj\Debug\Salary Projection Console App.pdb
